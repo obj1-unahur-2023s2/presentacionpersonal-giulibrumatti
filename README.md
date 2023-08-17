@@ -1,38 +1,15 @@
 ![Logo UNAHUR](./assets/UNAHUR.png)
 
-Bienvenidos a
-# Programación con objetos I
+# Giuliano Brumatti
+# Presentación
 
-En esta materia aprenderán sobre la famosa POO _(OOP en inglés)_, un paradigma que propone como base **objetos** que tienen un **estado** y **comportamiento**.
-Para ello usaremos como herramienta el lenguaje Wollok.
 
-```wollok
-object programacionConObjetos { 
-    method saludar() { 
-        return  "Bienvenidxs!" 
-    }
-}
-```
+### Sobre mí
 
-## Links importantes :monocle_face:
-- [x] [Página principal](https://obj1-unahur.github.io/) de la materia (no olviden entrar seguido!) 
-- [x] [Cronograma](https://docs.google.com/spreadsheets/d/1Ik6coqFm2lr2m6EFBGo3Ul4Bi4RPhrrtMQLbK3WcbIQ/edit?usp=sharing) de clases.
-- [x] [Matricularse](https://discord.gg/tqyHtPt) y ver el canal de Discord.
-- [x] [Mumuki](https://mumuki.io/unahur-obj1)
+Hola, mi nombre es Giuliano y este es mi tercer cuatrimestre de la carrera de Tecnicatura en Programación. Tengo 26 años y soy de Villa Bosch.
 
-### Referencias Markdown 
-* [Wikipedia](https://es.wikipedia.org/wiki/Markdown)
-* [Guía Rápida](https://greg.schueler.us/doc/markdown.txt) de la sintaxis _(en inglés)_
-* [Emojis!](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) :sunglasses:
+Desde muy chico me gusta la computación y todo lo relacionado con la tecnología, pero por cuestiones personales me demoré un poco en involucrarme de lleno en los estudios. Gracias a que comencé la carrera, pude aprender muchas cosas tanto en la facultad como de manera autodidacta, lo cual me ayudó mucho a despertar mi curiosidad en el mundo de la programación.
 
-### Presentacion Personal
+Por el momento no tengo un trabajo relacionado con la programación. Mi gran objetivo es conseguir ese tan ansiado primer trabajo en el mundo de la IT.
 
-Me llamo ...
-
-Me gusta ...
-
-Me dedico a / Trabajo de ...
-
-Les dejo una imagen mía 
-
-![subir archivo de imagen](imagen.jpg)
+En mi tiempo libre trato de estudiar de manera autodidacta y también practico como deporte el Jiu Jitsu brasileño.
